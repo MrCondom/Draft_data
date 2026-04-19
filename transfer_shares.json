@@ -1,0 +1,144 @@
+{
+    "deed_of_transfer_of_shares": {
+        "title": "deed of transfer of shares",
+        "sections": [
+            {
+                "type": "heading",
+                "value": "This deed of transfer is made this _ day of _ 20__"
+            },
+
+            {
+                "type": "sectionTitle",
+                "value": "BETWEEN"
+            },
+
+            {
+                "type": "text",
+                "value": "Mr coleman Jack, of No.6 hailey street, wuse zone 3, fct, (hereinafter referred to as 'the transferor') of the one part"
+
+            },
+
+            {
+                "type": "sectionTitle",
+                "value": "AND"
+            },
+
+            {
+                "type": "text",
+                "value": "Dr. cindy bullent, from axis estate, lugbe, Fct, (hereinafter referred to as 'the transferee') of the other part."
+            },
+            {
+                "type": "sectionTitle",
+                "value": "Whereas"
+            },
+            {
+                "type": "body",
+                "value":[
+                    "1. The transferor is the registered holder of 1000 (one thousand) ordinary shares of N20,000,000 (twenty million naira) in Jax Nig. ltd, a company duly incorporated under the companies and allied matters act 2020, with Rc no. 3234374 ('hereinafter referred to as the company'). \n \n",
+                    "2. The transferor has agreed to transfer the said shares to the transferee, and the transferee has agreed to accept the transfer of the said shares subject to the terms and condition herein contained."
+            ]
+                
+            },
+            {
+                "type": "sectionTitle",
+                "value": "NOW THIS DEED WITNESSES AS FOLLOWS;"
+            },
+            {
+                "type": "sectionTitle",
+                "value": "Transfer Of Shares"
+            },
+            {
+                "type": "body",
+                "value": "The transferor as the beneficial owner hereby transfers to the transferee 500 (five hundred) ordinary shares of N10,000,000 (ten million naira) each in the company, together with all rights, title, and interest attached thereto."
+            },
+           {
+            "type": "sectionTitle",
+            "value": "Consideration"
+           },
+           {
+            "type": "body",
+            "value": "The transfer of the said shares is made for the sum of N10,000,000 (ten million Naira) (receipt of which the transferor hereby acknowledges)."
+           },
+           {
+            "type": "sectionTitle",
+            "value": "Transferee's Covenant"
+           },
+           {
+            "type": "body",
+            "value": "The transferee hereby agrees to accept the said shares subject to the provisions of the Memorandum and articles of association of the company and undertakes to be bound by the same."
+           },
+           {
+            "type": "sectionTitle",
+            "value": "Indemnity"
+           },
+           {
+            "type": "body",
+            "value": "The transferee agrees to indemnify the transferor against all liabilities that may arise in respect of the said shares from the date of execution of this deed."
+           },
+           {
+            "type": "sectionTitle",
+            "value": "Further Assurance"
+           },
+           {
+            "type": "body",
+            "value": [
+                "The parties agree to execute all such further documents and do all such acts as may be necessary to give full effect to this transfer.\n\n\n ",
+                "IN WITNESS OF WHICH the parties have executed this deed the day and year first above written."
+            ]
+           },
+           {
+            "type": "sectionTitle",
+            "value": "SIGNED, SEALED, AND DELIVERED"
+           },
+           {
+            "type": "body",
+            "value":[ 
+                "By the within named Transferor:\n",
+                "________________________\n",
+                "Mr. coleman Jack"
+           ]
+           },
+        {
+            "type": "sectionTitle",
+            "value": "IN THE PRESENCE OF;"
+        },
+        {
+            "type": "address",
+            "value": [
+                "Name,______________\n",
+                "Address,____________\n",
+                "Occupation,____________\n",
+                "Signature,_____________ \n",
+                "Date,_____________"
+            ]
+        },
+        {
+            "type": "sectionTitle",
+            "value": "SIGNED, SEALED, AND DELIVERED"
+           },
+           {
+            "type": "body",
+            "value":[ 
+                "By the within named Transferee:\n",
+                "_________________________\n",
+                "Dr. Cindy  Bullent"
+           ]
+           },
+        {
+            "type": "sectionTitle",
+            "value": "IN THE PRESENCE OF;"
+        },
+        {
+            "type": "address",
+            "value": [
+                "Name,______________\n",
+                "Address,____________\n",
+                "Occupation,____________\n",
+                "Signature,_____________ \n",
+                "Date,_____________"
+            ]
+        }
+
+        ]
+    }
+}
