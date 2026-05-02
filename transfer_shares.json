@@ -32,7 +32,7 @@
                 "value": "Whereas"
             },
             {
-                "type": "body",
+                "type": "text",
                 "value":[
                     "1. The transferor is the registered holder of 1000 (one thousand) ordinary shares of N20,000,000 (twenty million naira) in Jax Nig. ltd, a company duly incorporated under the companies and allied matters act 2020, with Rc no. 3234374 ('hereinafter referred to as the company'). \n \n",
                     "2. The transferor has agreed to transfer the said shares to the transferee, and the transferee has agreed to accept the transfer of the said shares subject to the terms and condition herein contained."
@@ -48,7 +48,7 @@
                 "value": "Transfer Of Shares"
             },
             {
-                "type": "body",
+                "type": "text",
                 "value": "The transferor as the beneficial owner hereby transfers to the transferee 500 (five hundred) ordinary shares of N10,000,000 (ten million naira) each in the company, together with all rights, title, and interest attached thereto."
             },
            {
@@ -56,7 +56,7 @@
             "value": "Consideration"
            },
            {
-            "type": "body",
+            "type": "text",
             "value": "The transfer of the said shares is made for the sum of N10,000,000 (ten million Naira) (receipt of which the transferor hereby acknowledges)."
            },
            {
@@ -64,7 +64,7 @@
             "value": "Transferee's Covenant"
            },
            {
-            "type": "body",
+            "type": "text",
             "value": "The transferee hereby agrees to accept the said shares subject to the provisions of the Memorandum and articles of association of the company and undertakes to be bound by the same."
            },
            {
@@ -72,7 +72,7 @@
             "value": "Indemnity"
            },
            {
-            "type": "body",
+            "type": "text",
             "value": "The transferee agrees to indemnify the transferor against all liabilities that may arise in respect of the said shares from the date of execution of this deed."
            },
            {
@@ -80,7 +80,7 @@
             "value": "Further Assurance"
            },
            {
-            "type": "body",
+            "type": "text",
             "value": [
                 "The parties agree to execute all such further documents and do all such acts as may be necessary to give full effect to this transfer.\n\n\n ",
                 "IN WITNESS OF WHICH the parties have executed this deed the day and year first above written."
@@ -91,9 +91,9 @@
             "value": "SIGNED, SEALED, AND DELIVERED"
            },
            {
-            "type": "body",
+            "type": "heading",
             "value":[ 
-                "By the within named Transferor:\n",
+                "By the within named Transferor:\n\n",
                 "________________________\n",
                 "Mr. coleman Jack"
            ]
@@ -109,17 +109,17 @@
                 "Address,____________\n",
                 "Occupation,____________\n",
                 "Signature,_____________ \n",
-                "Date,_____________"
+                "Date,_____________\n\n"
             ]
         },
         {
-            "type": "sectionTitle",
+            "type": "heading",
             "value": "SIGNED, SEALED, AND DELIVERED"
            },
            {
-            "type": "body",
+            "type": "heading",
             "value":[ 
-                "By the within named Transferee:\n",
+                "By the within named Transferee:\n\n",
                 "_________________________\n",
                 "Dr. Cindy  Bullent"
            ]
