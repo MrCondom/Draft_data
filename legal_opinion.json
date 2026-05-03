@@ -47,7 +47,7 @@
 		},
 		{
 		"type": "sectionTitle",
-		"value": "4. issues for determination"
+		"value": "4. Issues for determination"
 		},
 		{
 		"type": "text",
@@ -65,7 +65,7 @@
 		},
 		{
 		"type": "sectionTitle",
-		"value": "6. legal opinion"
+		"value": "6. Legal opinion"
 		},
 		{
 		"type": "text",
@@ -74,12 +74,12 @@
 		},
 		{
 		"type": "sectionTitle",
-		"value": "7. conclusion and recommendations"
+		"value": "7. Conclusion and Recommendations"
 		},
 		{
 		"type": "text",
-		"value": ["the following is hereby recommended;\n\n",
-				"a letter should be written to the attorney-general and commissioner for justice, rivers state for his necessary actions on the matter."]
+		"value": ["the following is hereby recommended;\n",
+				"a letter should be written to the attorney-general and commissioner for justice, rivers state for his necessary actions on the matter.\n\n"]
 		},
 		{
 		"type": "address",

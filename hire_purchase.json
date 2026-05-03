@@ -3,8 +3,8 @@
         "title": "hire purchase agreement",
         "sections": [
             {
-                "type": "text3",
-                "value": "THIS HIRE PURCHASE AGREEMENT is made  this ___________ day of ___________ 20__ "
+                "type": "heading",
+                "value": "THIS HIRE PURCHASE AGREEMENT is made  this _______ day of ______ 20__ "
             },
 
             {
@@ -69,14 +69,14 @@
                 "value": "SCHEDULE"
             },
            {
-            "type": "sectionTitle",
+            "type": "heading",
             "value": "SIGNED, SEALED, AND DELIVERED"
            },
            {
             "type": "heading",
             "value":[ 
                 "By the within named Owner:\n\n",
-                "________________________\n",
+                "____________________\n",
                 "Mr Aaron Bob"
            ]
            },
@@ -102,7 +102,7 @@
             "type": "heading",
             "value":[ 
                 "By the within named Hirer:\n\n",
-                "_________________________\n",
+                "_____________________\n",
                 "Miss victoria samuel"
            ]
            },
