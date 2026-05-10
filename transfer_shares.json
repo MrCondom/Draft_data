@@ -4,7 +4,7 @@
         "sections": [
             {
                 "type": "heading",
-                "value": "THIS DEED oF TRANSFER is made this _ day of _ 20__"
+                "value": "THIS DEED OF TRANSFER is made this _ day of _ 20__"
             },
 
             {
@@ -14,7 +14,7 @@
 
             {
                 "type": "text",
-                "value": "Mr coleman Jack, of No.6 hailey street, wuse zone 3, fct, (hereinafter referred to as 'the transferor') of the one part"
+                "value": "Mr coleman Jack, of No. 6 hailey street, wuse zone 3, fct, (hereinafter referred to as 'the transferor') of the one part"
 
             },
 
@@ -25,7 +25,7 @@
 
             {
                 "type": "text",
-                "value": "Dr. cindy bullent, from axis estate, lugbe, Fct, (hereinafter referred to as 'the transferee') of the other part."
+                "value": "Dr. cindy bullent, of axis estate, lugbe, Fct, (hereinafter referred to as 'the transferee') of the other part."
             },
             {
                 "type": "sectionTitle",
@@ -34,14 +34,14 @@
             {
                 "type": "text",
                 "value":[
-                    "1. The transferor is the registered holder of 1000 (one thousand) ordinary shares of N20,000,000 (twenty million naira) in Jax Nig. ltd, a company duly incorporated under the companies and allied matters act 2020, with Rc no. 3234374 ('hereinafter referred to as the company'). \n \n",
-                    "2. The transferor has agreed to transfer the said shares to the transferee, and the transferee has agreed to accept the transfer of the said shares subject to the terms and condition herein contained."
+                    "1. The transferor is the registered holder of 1000 (one thousand) ordinary shares of N20,000,000 (twenty million naira) in Jax Nig. ltd, a company duly incorporated under the companies and allied matters act 2020, with Rc no. 3234374 (hereinafter referred to as 'the company'). \n \n",
+                    "2. The transferor has agreed to transfer the said shares to the transferee, and the transferee has agreed to accept the transfer of the said shares subject to the terms and conditions herein contained."
             ]
                 
             },
             {
                 "type": "sectionTitle",
-                "value": "NOW THIS DEED WITNESSES AS FOLLOWS;"
+                "value": "NOW THIS DEED WITNESSETH AS FOLLOWS:"
             },
             {
                 "type": "sectionTitle",
@@ -49,7 +49,7 @@
             },
             {
                 "type": "text",
-                "value": "The transferor as the beneficial owner hereby transfers to the transferee 500 (five hundred) ordinary shares of N10,000,000 (ten million naira) each in the company, together with all rights, title, and interest attached thereto."
+                "value": "The transferor, as the beneficial owner, hereby transfers to the transferee 500 (five hundred) ordinary shares of N10,000,000 (ten million naira) each in the company, together with all rights, title, and interest attached thereto."
             },
            {
             "type": "sectionTitle",
@@ -57,7 +57,7 @@
            },
            {
             "type": "text",
-            "value": "The transfer of the said shares is made for the sum of N10,000,000 (ten million Naira) (receipt of which the transferor hereby acknowledges)."
+            "value": "The transfer of the said shares is made for the sum of N10,000,000 (ten million Naira) (the receipt of which the transferor hereby acknowledges)."
            },
            {
             "type": "sectionTitle",
@@ -83,7 +83,7 @@
             "type": "text",
             "value": [
                 "The parties agree to execute all such further documents and do all such acts as may be necessary to give full effect to this transfer.\n\n\n ",
-                "IN WITNESS OF WHICH the parties have executed this deed the day and year first above written."
+                "IN WITNESS OF WHICH the parties have executed this deed, the day and year first above written."
             ]
            },
            {
@@ -93,14 +93,14 @@
            {
             "type": "heading",
             "value":[ 
-                "By the within named Transferor:\n\n",
+                "By the within-named Transferor:\n\n",
                 "________________________\n",
                 "Mr. coleman Jack"
            ]
            },
         {
             "type": "sectionTitle",
-            "value": "IN THE PRESENCE OF;"
+            "value": "IN THE PRESENCE OF:"
         },
         {
             "type": "address",
@@ -119,14 +119,14 @@
            {
             "type": "heading",
             "value":[ 
-                "By the within named Transferee:\n\n",
+                "By the within-named Transferee:\n\n",
                 "_________________________\n",
                 "Dr. Cindy  Bullent"
            ]
            },
         {
             "type": "sectionTitle",
-            "value": "IN THE PRESENCE OF;"
+            "value": "IN THE PRESENCE OF:"
         },
         {
             "type": "address",
